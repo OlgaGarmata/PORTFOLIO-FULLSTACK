@@ -1,199 +1,199 @@
-/* line 7, D:/progect/port/scss/_helpers.scss */
+/* line 7, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .rel {
   position: relative; }
 
-/* line 11, D:/progect/port/scss/_helpers.scss */
+/* line 11, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .abs {
   position: absolute; }
 
-/* line 15, D:/progect/port/scss/_helpers.scss */
+/* line 15, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .fixed {
   position: fixed; }
 
-/* line 21, D:/progect/port/scss/_helpers.scss */
+/* line 21, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .pull-left {
   float: left; }
 
-/* line 25, D:/progect/port/scss/_helpers.scss */
+/* line 25, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .pull-right {
   float: right; }
 
-/* line 30, D:/progect/port/scss/_helpers.scss */
+/* line 30, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .cf:after {
   content: '';
   display: table;
   clear: both; }
 
-/* line 40, D:/progect/port/scss/_helpers.scss */
+/* line 40, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .inline {
   display: inline; }
 
-/* line 44, D:/progect/port/scss/_helpers.scss */
+/* line 44, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .block {
   display: block; }
 
-/* line 48, D:/progect/port/scss/_helpers.scss */
+/* line 48, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .inline-block {
   display: inline-block; }
 
-/* line 55, D:/progect/port/scss/_helpers.scss */
+/* line 55, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .center {
   margin: 0 auto;
   text-align: center; }
 
-/* line 60, D:/progect/port/scss/_helpers.scss */
+/* line 60, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-left {
   text-align: left; }
 
-/* line 64, D:/progect/port/scss/_helpers.scss */
+/* line 64, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-right {
   text-align: right; }
 
-/* line 68, D:/progect/port/scss/_helpers.scss */
+/* line 68, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-center {
   text-align: center; }
 
-/* line 72, D:/progect/port/scss/_helpers.scss */
+/* line 72, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-justify {
   text-align: justify; }
 
-/* line 76, D:/progect/port/scss/_helpers.scss */
+/* line 76, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-align {
   padding: 5.5rem; }
 
 @media (max-width: 992px) {
-  /* line 80, D:/progect/port/scss/_helpers.scss */
+  /* line 80, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
   .mobile-text-center {
     text-align: center; } }
 
-/* line 90, D:/progect/port/scss/_helpers.scss */
+/* line 90, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .white.white {
   color: #fff; }
 
-/* line 96, D:/progect/port/scss/_helpers.scss */
+/* line 96, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .black.black {
   color: #000; }
 
-/* line 102, D:/progect/port/scss/_helpers.scss */
+/* line 102, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .prime.prime {
   color: #3a9c61; }
 
-/* line 108, D:/progect/port/scss/_helpers.scss */
+/* line 108, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .second.second {
   color: #241e18; }
 
-/* line 117, D:/progect/port/scss/_helpers.scss */
+/* line 117, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-white.bg-white {
   background-color: #fff; }
 
-/* line 123, D:/progect/port/scss/_helpers.scss */
+/* line 123, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-black.bg-black {
   background-color: #000; }
 
-/* line 129, D:/progect/port/scss/_helpers.scss */
+/* line 129, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-prime.bg-prime {
   background-color: #3a9c61; }
 
-/* line 135, D:/progect/port/scss/_helpers.scss */
+/* line 135, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-second.bg-second {
   background-color: #241e18; }
 
-/* line 141, D:/progect/port/scss/_helpers.scss */
+/* line 141, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-third.bg-third {
   background-color: #f2f0e9; }
 
-/* line 147, D:/progect/port/scss/_helpers.scss */
+/* line 147, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-gray.bg-gray {
   background-color: #f2f0e9; }
 
-/* line 155, D:/progect/port/scss/_helpers.scss */
+/* line 155, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .pointer {
   cursor: pointer; }
 
-/* line 161, D:/progect/port/scss/_helpers.scss */
+/* line 161, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-1 {
   margin-bottom: 1rem; }
 
-/* line 165, D:/progect/port/scss/_helpers.scss */
+/* line 165, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-2 {
   margin-bottom: 2rem; }
 
-/* line 169, D:/progect/port/scss/_helpers.scss */
+/* line 169, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-3 {
   margin-bottom: 3rem; }
 
-/* line 173, D:/progect/port/scss/_helpers.scss */
+/* line 173, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-4 {
   margin-bottom: 4rem; }
 
-/* line 177, D:/progect/port/scss/_helpers.scss */
+/* line 177, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-10 {
   margin-bottom: 10rem; }
 
-/* line 4, D:/progect/port/scss/_typography.scss */
+/* line 4, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 html {
   font-size: 10px; }
 
-/* line 8, D:/progect/port/scss/_typography.scss */
+/* line 8, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 body {
   font-size: 1.8rem;
   margin: 0; }
 
-/* line 16, D:/progect/port/scss/_typography.scss */
+/* line 16, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 h1, h2, h3, h4, h5, h6 {
   color: #241e18;
   font-family: "Merriweather"; }
 
-/* line 21, D:/progect/port/scss/_typography.scss */
+/* line 21, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .h1 {
   font-size: 4.8rem; }
 
-/* line 25, D:/progect/port/scss/_typography.scss */
+/* line 25, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .h2 {
   font-size: 3.6rem; }
 
-/* line 29, D:/progect/port/scss/_typography.scss */
+/* line 29, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .h3 {
   font-size: 2.4rem; }
 
-/* line 33, D:/progect/port/scss/_typography.scss */
+/* line 33, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .h4 {
   font-size: 2.2rem; }
 
-/* line 37, D:/progect/port/scss/_typography.scss */
+/* line 37, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .h5 {
   font-size: 1.4rem;
   font-family: "Open Sans"; }
 
-/* line 42, D:/progect/port/scss/_typography.scss */
+/* line 42, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .h6 {
   font-size: 1.4rem; }
 
-/* line 46, D:/progect/port/scss/_typography.scss */
+/* line 46, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 p, .bold {
   font-size: 1.8rem;
   font-family: "Open Sans"; }
 
-/* line 51, D:/progect/port/scss/_typography.scss */
+/* line 51, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .bold {
   font-weight: bold; }
 
-/* line 56, D:/progect/port/scss/_typography.scss */
+/* line 56, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 a {
   font-size: 1.2rem;
   text-decoration: none; }
-  /* line 62, D:/progect/port/scss/_typography.scss */
+  /* line 62, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
   a:hover {
     text-decoration: underline;
     color: #3a9c61; }
 
-/* line 69, D:/progect/port/scss/_typography.scss */
+/* line 69, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .osi {
   font-family: "Open Sans";
   font-style: oblique;
   color: #65615d; }
 
-/* line 76, D:/progect/port/scss/_typography.scss */
+/* line 76, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .mail, .info {
   font-family: "Open Sans";
   font-weight: bold;
@@ -201,24 +201,24 @@ a {
   font-size: 1.8rem;
   font-variant: small-caps;
   text-decoration: underline; }
-  /* line 84, D:/progect/port/scss/_typography.scss */
+  /* line 84, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
   .mail:hover, .info:hover {
     text-decoration: none;
     color: #e98e19; }
 
-/* line 90, D:/progect/port/scss/_typography.scss */
+/* line 90, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .info {
   font-weight: normal;
   font-variant: normal; }
 
-/* line 96, D:/progect/port/scss/_typography.scss */
+/* line 96, D:/progect/PORTFOLIO-FULLSTACK/scss/_typography.scss */
 .quote {
   font-family: "Merriweather";
   font-size: 2.2rem;
   color: #65615d;
   width: 75rem; }
 
-/* line 1, D:/progect/port/scss/_bottons.scss */
+/* line 1, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
 .btn-prime, .btn-transparent:hover, .btn-second, .btn-outline, .btn-transparent, .btn-long {
   font-size: 1.4rem;
   text-transform: uppercase;
@@ -235,55 +235,55 @@ a {
   cursor: pointer;
   text-align: center; }
 
-/* line 19, D:/progect/port/scss/_bottons.scss */
+/* line 19, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
 .btn-prime, .btn-transparent:hover {
   background: #3a9c61;
   border: #3a9c61; }
 
-/* line 26, D:/progect/port/scss/_bottons.scss */
+/* line 26, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
 .btn-second {
   background: #e98e19;
   border: #e98e19; }
 
-/* line 36, D:/progect/port/scss/_bottons.scss */
+/* line 36, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
 .btn-transparent {
   color: #3a9c61;
   border-color: #3a9c61;
   margin-bottom: 0; }
-  /* line 42, D:/progect/port/scss/_bottons.scss */
+  /* line 42, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
   .btn-transparent:hover {
     margin-bottom: 0; }
 
-/* line 48, D:/progect/port/scss/_bottons.scss */
+/* line 48, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
 .btn-small {
   padding: 1.5rem; }
 
-/* line 52, D:/progect/port/scss/_bottons.scss */
+/* line 52, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
 .btn-large {
   padding: 1.5rem; }
 
-/* line 56, D:/progect/port/scss/_bottons.scss */
+/* line 56, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
 .btn-long {
   margin-top: 5rem;
   margin-bottom: 0;
   color: #3a9c61;
   border-color: #3a9c61;
   width: auto; }
-  /* line 65, D:/progect/port/scss/_bottons.scss */
+  /* line 65, D:/progect/PORTFOLIO-FULLSTACK/scss/_bottons.scss */
   .btn-longhover {
     background: #3a9c61;
     color: white; }
 
-/* line 5, D:/progect/port/scss/_layouts.scss */
+/* line 5, D:/progect/PORTFOLIO-FULLSTACK/scss/_layouts.scss */
 div, p, .bold, section, header, footer, aside {
   box-sizing: border-box; }
 
-/* line 9, D:/progect/port/scss/_layouts.scss */
+/* line 9, D:/progect/PORTFOLIO-FULLSTACK/scss/_layouts.scss */
 .section {
   padding-top: 10rem;
   padding-bottom: 10rem; }
 
-/* line 14, D:/progect/port/scss/_layouts.scss */
+/* line 14, D:/progect/PORTFOLIO-FULLSTACK/scss/_layouts.scss */
 .wrap {
   max-width: 140rem;
   padding-left: 13rem;
@@ -292,7 +292,7 @@ div, p, .bold, section, header, footer, aside {
   padding-bottom: 10rem;
   margin: 0 auto; }
 
-/* line 23, D:/progect/port/scss/_layouts.scss */
+/* line 23, D:/progect/PORTFOLIO-FULLSTACK/scss/_layouts.scss */
 .wrapHeader {
   max-width: 140rem;
   padding-left: 13rem;
@@ -301,204 +301,204 @@ div, p, .bold, section, header, footer, aside {
   padding-bottom: 0;
   margin: 0 auto; }
 
-/* line 32, D:/progect/port/scss/_layouts.scss */
+/* line 32, D:/progect/PORTFOLIO-FULLSTACK/scss/_layouts.scss */
 .circle, .circle-ava {
   border-radius: 50%;
   width: 16.5rem;
   height: 16.5rem; }
 
-/* line 38, D:/progect/port/scss/_layouts.scss */
+/* line 38, D:/progect/PORTFOLIO-FULLSTACK/scss/_layouts.scss */
 .circle-ava {
   width: 6.5rem;
   height: 6.5rem; }
 
-/* line 7, D:/progect/port/scss/_helpers.scss */
+/* line 7, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .rel {
   position: relative; }
 
-/* line 11, D:/progect/port/scss/_helpers.scss */
+/* line 11, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .abs {
   position: absolute; }
 
-/* line 15, D:/progect/port/scss/_helpers.scss */
+/* line 15, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .fixed {
   position: fixed; }
 
-/* line 21, D:/progect/port/scss/_helpers.scss */
+/* line 21, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .pull-left {
   float: left; }
 
-/* line 25, D:/progect/port/scss/_helpers.scss */
+/* line 25, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .pull-right {
   float: right; }
 
-/* line 30, D:/progect/port/scss/_helpers.scss */
+/* line 30, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .cf:after {
   content: '';
   display: table;
   clear: both; }
 
-/* line 40, D:/progect/port/scss/_helpers.scss */
+/* line 40, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .inline {
   display: inline; }
 
-/* line 44, D:/progect/port/scss/_helpers.scss */
+/* line 44, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .block {
   display: block; }
 
-/* line 48, D:/progect/port/scss/_helpers.scss */
+/* line 48, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .inline-block {
   display: inline-block; }
 
-/* line 55, D:/progect/port/scss/_helpers.scss */
+/* line 55, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .center {
   margin: 0 auto;
   text-align: center; }
 
-/* line 60, D:/progect/port/scss/_helpers.scss */
+/* line 60, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-left {
   text-align: left; }
 
-/* line 64, D:/progect/port/scss/_helpers.scss */
+/* line 64, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-right {
   text-align: right; }
 
-/* line 68, D:/progect/port/scss/_helpers.scss */
+/* line 68, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-center {
   text-align: center; }
 
-/* line 72, D:/progect/port/scss/_helpers.scss */
+/* line 72, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-justify {
   text-align: justify; }
 
-/* line 76, D:/progect/port/scss/_helpers.scss */
+/* line 76, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .text-align {
   padding: 5.5rem; }
 
 @media (max-width: 992px) {
-  /* line 80, D:/progect/port/scss/_helpers.scss */
+  /* line 80, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
   .mobile-text-center {
     text-align: center; } }
 
-/* line 90, D:/progect/port/scss/_helpers.scss */
+/* line 90, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .white.white {
   color: #fff; }
 
-/* line 96, D:/progect/port/scss/_helpers.scss */
+/* line 96, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .black.black {
   color: #000; }
 
-/* line 102, D:/progect/port/scss/_helpers.scss */
+/* line 102, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .prime.prime {
   color: #3a9c61; }
 
-/* line 108, D:/progect/port/scss/_helpers.scss */
+/* line 108, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .second.second {
   color: #241e18; }
 
-/* line 117, D:/progect/port/scss/_helpers.scss */
+/* line 117, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-white.bg-white {
   background-color: #fff; }
 
-/* line 123, D:/progect/port/scss/_helpers.scss */
+/* line 123, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-black.bg-black {
   background-color: #000; }
 
-/* line 129, D:/progect/port/scss/_helpers.scss */
+/* line 129, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-prime.bg-prime {
   background-color: #3a9c61; }
 
-/* line 135, D:/progect/port/scss/_helpers.scss */
+/* line 135, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-second.bg-second {
   background-color: #241e18; }
 
-/* line 141, D:/progect/port/scss/_helpers.scss */
+/* line 141, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-third.bg-third {
   background-color: #f2f0e9; }
 
-/* line 147, D:/progect/port/scss/_helpers.scss */
+/* line 147, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .bg-gray.bg-gray {
   background-color: #f2f0e9; }
 
-/* line 155, D:/progect/port/scss/_helpers.scss */
+/* line 155, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .pointer {
   cursor: pointer; }
 
-/* line 161, D:/progect/port/scss/_helpers.scss */
+/* line 161, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-1 {
   margin-bottom: 1rem; }
 
-/* line 165, D:/progect/port/scss/_helpers.scss */
+/* line 165, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-2 {
   margin-bottom: 2rem; }
 
-/* line 169, D:/progect/port/scss/_helpers.scss */
+/* line 169, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-3 {
   margin-bottom: 3rem; }
 
-/* line 173, D:/progect/port/scss/_helpers.scss */
+/* line 173, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-4 {
   margin-bottom: 4rem; }
 
-/* line 177, D:/progect/port/scss/_helpers.scss */
+/* line 177, D:/progect/PORTFOLIO-FULLSTACK/scss/_helpers.scss */
 .mb-10 {
   margin-bottom: 10rem; }
 
-/* line 4, D:/progect/port/scss/pages/home.scss */
+/* line 4, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 header {
   padding-top: 3rem; }
 
-/* line 7, D:/progect/port/scss/pages/home.scss */
+/* line 7, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .hero {
   background: url("../../img/bg/bg-hero.jpg");
   bacground-size: cover;
   border-bottom: 1rem solid #3a9c61; }
 
-/* line 13, D:/progect/port/scss/pages/home.scss */
+/* line 13, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .hero-subtitle {
   padding-bottom: 5rem;
   font-variant: small-caps;
   font-weight: bold;
   font-family: "Open Sans"; }
 
-/* line 20, D:/progect/port/scss/pages/home.scss */
+/* line 20, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .hero-title {
   font-size: 4.8rem;
   font-weight: bold;
   font-family: "Merriweather"; }
 
-/* line 26, D:/progect/port/scss/pages/home.scss */
+/* line 26, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .second-title {
   font-size: 2.8rem;
   font-weight: bold;
   font-family: "Merriweather"; }
 
-/* line 32, D:/progect/port/scss/pages/home.scss */
+/* line 32, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .hamburger {
   font-size: 1rem;
   color: #d3d2d1; }
-  /* line 36, D:/progect/port/scss/pages/home.scss */
+  /* line 36, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
   .hamburger:hover {
     color: #3a9c61; }
 
-/* line 41, D:/progect/port/scss/pages/home.scss */
+/* line 41, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .hero-nav {
   display: block;
   font-size: 1.2rem; }
 
-/* line 46, D:/progect/port/scss/pages/home.scss */
+/* line 46, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .hero-nav-item {
   display: inline-block;
   padding: 1.5rem; }
 
-/* line 52, D:/progect/port/scss/pages/home.scss */
+/* line 52, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .logo-name {
   color: #fff;
   font-weight: bold;
   font-size: 2.8rem;
   font-family: Merriweather; }
 
-/* line 60, D:/progect/port/scss/pages/home.scss */
+/* line 60, D:/progect/PORTFOLIO-FULLSTACK/scss/pages/home.scss */
 .section {
   min-height: 20rem; }
 
